@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Vignesh 👋
 
-<!--
-**Vignesh-Chithanuri/Vignesh-Chithanuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech graduate in Electronics and Communication Engineering  
+📊 Aspiring Data Analyst passionate about data-driven decision making  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL, Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Power BI, Excel
+- Data Cleaning, EDA, Dashboarding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- **Walmart Sales Analysis (Power BI)**  
+  Interactive dashboard analyzing revenue, customer behavior, and sales trends.
+
+- **Construction Project Performance Analysis**  
+  Python and SQL-based analysis to identify delays, risks, and budget efficiency.
+
+- **Kidney Stone Detection (Image Processing)**  
+  Academic project using filtering and segmentation techniques.
+
+### 📫 Connect with Me
+- LinkedIn: *(add your link)*
+- Email: vigneshchithanuri07@gmail.com
+
