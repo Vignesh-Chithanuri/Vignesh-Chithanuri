@@ -11,34 +11,44 @@
 
 ## 🎓 About Me
 - B.Tech graduate in **Electronics and Communication Engineering**
-- Passionate about **data-driven decision making**
-- Interested in **data analysis, visualization, and real-world problem solving**
-- Actively building projects using **SQL, Python, and Power BI**
+- Passionate about **data analysis and visualization**
+- Interested in turning raw data into **actionable insights**
+- Currently improving skills in **advanced SQL, Python, and Power BI**
 
 ---
 
 ## 🔧 Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-</p>
-
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Creation & Reporting  
+- **Languages:** SQL, Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **BI Tools:** Power BI, Excel  
+- **Core Skills:** Data Cleaning, EDA, Dashboarding  
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
 
 ### 📊 Walmart Sales Analysis (Power BI)
-- Built an interactive dashboard to analyze **revenue, customer segments, and payment methods**
-- Used **SQL** for data cleaning and transformation
-- Identified **top-performing branches** and **peak sales trends**
+- Interactive dashboard analyzing revenue, customer behavior, and sales trends
+- Data cleaning and transformation using SQL
+
+### 🏗 Construction Project Performance Analysis
+- Python and SQL-based analysis of delays, risks, and budget efficiency
+- Visualized insights using charts and heatmaps
+
+### 🩺 Kidney Stone Detection (Image Processing)
+- Academic project using filtering, segmentation, and edge detection
+- Focused on improving diagnostic accuracy
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME  
+- **Email:** vigneshchithanuri07@gmail.com
+
+---
+
+⭐ *Actively learning and building real-world data projects.*
+
 
 ---
 
