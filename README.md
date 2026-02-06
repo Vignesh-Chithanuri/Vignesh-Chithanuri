@@ -20,6 +20,6 @@
   Academic project using filtering and segmentation techniques.
 
 ### 📫 Connect with Me
-- LinkedIn: *(add your link)*
+- LinkedIn: https://www.linkedin.com/in/vignesh-chithanuri-491045360
 - Email: vigneshchithanuri07@gmail.com
 
