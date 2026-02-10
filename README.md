@@ -68,7 +68,7 @@
 
 ## 📫 Connect with Me
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/vignesh-chithanuri-491045360)">
+  <a href="](https://www.linkedin.com/in/vignesh-chithanuri-491045360)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vigneshchithanuri07@gmail.com">
